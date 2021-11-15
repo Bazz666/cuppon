@@ -1,0 +1,28 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+} 
+.bg-green {
+    background-color: #28A745;
+}
+.logo-nav{
+    height: 25px;
+}
+.logo-footer{
+    height: 24px;
+}
+.oferta{
+    color:#28A745 ;
+    height:30px ;
+    font-size: 20px;
+}
+.placeholder{
+    font-weight: lighter;
+}
+
+.form-control{
+font-weight:lighter;}
+
+h2 {
+    font-size: 24px;
+}
